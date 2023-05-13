@@ -1,0 +1,30 @@
+e1p que o usuario entra com 3 lados de um triangulo (sugestao de variavel: l1 l2 e l3) e o programa informa se os lados formam ou nao um triangulo
+
+e1p que o usuario entra com 3 lados de um triangulo os software diz se forma ou nao o triangulo. se formar um triangulo, classifique-o quanto aos lados (equilatero, isoceles e escaleno)
+
+/*
+	EXERCICIOS PARA MENÇAO:
+
+	1- e1p em que o usuario entra com 3 lados de um triangulo , o programa testa para ver se forma um triangulo, formando um triangulo. o usuario verifica se a entrada com os lados forma (1 triangulo retangulo; um triangulo acutangulo e obstusangulo) é obrigatoria pelos lados.
+
+	2- e1p em que o usuario entre com uma data completa (dia, mes e ano) e o programa diz se essa data é valida ou nao.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/

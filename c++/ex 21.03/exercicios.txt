@@ -1,0 +1,23 @@
+e1p que leia 2 numeros e efetue a adicao. caso o valor somado seja > 20, este devera ser exibido somando a ele + 8; caso o valor somado seja <= 20 este valor deverá ser exibido subtraindo 5
+
+A prefeitura do rio de janeiro abriu uma linha de credito para os funcionario estatutarios o valor maximo nao podera ultrapassar 30% do salario bruto e1p que permita entrar com o salario bruto e o valor da prestacao e informa se o emprestimo pode ou nao ser concedido
+
+e1p que leia um numero inteiro de 3 casas e exibe se o algarismo da casa das centenas e par ou impar.
+
+e1p que leia um número inteiro de 4 casas e o programa exiba se é ou não múltiplo de 4 formado pelos algarismos que estão nas unidades de milhar e de centenas
+
+e1p que entra com o ano de nascimento de uma pessoa e o atual. exibir a idade da pessoa. nao se esqueca de verificar se o ano de nascimento e um ano valido.
+
+e1p que entra com 2 num  e exibe a mensagem dizendo se sao iguais ou diferentes
+
+e1p que entra com 2 num diferentes e exibe o maior numero
+
+e1p que entra com 2 num diferentes e exibe o menor numero
+
+e1p que entra com 2 num diferentes e exibe os numeros em ordem crescente
+
+e1p que entra com 2 num diferentes e exibe os numeros em ordem decrescente
+
+e1p que entra com 3 num diferentes e esses numeros sao armazenados em 3 variaveis, A, B. C. compare os numeros e guarde nas variaveis Maior, intermediario e Menor; e exiba na seguinte ordem:  Maior, intermediario e Menor, é expressamente proibido usar operadores logicos.
+
+e1p que entra com o RM, a nota da prova 1, a nota da prova 2. exiba o RM, a nota da prova 1, a nota da prova 2, e a media entre as notas, e uma das mensagens: APROVADO!, REPROVADO! ou EM PROVA FINAL.(a media para aprovacao e 7, menor que 3 reprovado, as notas entre 3 e 7 prova final)

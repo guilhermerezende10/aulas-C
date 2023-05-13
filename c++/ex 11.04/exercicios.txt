@@ -1,0 +1,1 @@
+e1p em que o usuario entra com 2 numeros e em seguida aparece um menu perguntando qual das 4 operacoes matematicas ele quer executar; O programa executa a operacao e exibe o resultado

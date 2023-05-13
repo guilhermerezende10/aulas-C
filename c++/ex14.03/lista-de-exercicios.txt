@@ -1,0 +1,16 @@
+e1p que efetue o calculo de um salario liquido de um horista, os dados fornecidos serao: valor da hora trabalhada, numero de horas trabalhadas num mes e percentual de desconto no inss. 15,7%.
+
+e1p efetuar o cálculo da quantidade de litros de combustivel gastos em uma viagem sabendo se que o carro faz 12km com um litro deverão ser fornecidos: o tempo gasto de viagem e a velocidade média.
+Utilizar a seguinte formula: Disância = tempo * velocidade e Litros usados = distancia /12. O programa deverá exibir os valores da velocidade média, o tempo gasto na viagem, a distancia percorrida
+e a quantidade de litros gastos na viagem.
+
+e1p que calcule o valor de uma prestacao em atraso utilizando a seguinte formula: Prestacao = valor + (valor * (taxa /100) * tempo) 
+ 
+e1p que leia o numerador e o denominador de uma fracao e transforme em um numero decimal 
+
+todo restaruante, embora a lei nao possa obrigar o clienta a pagar, cobra 10% para o garçon, e1p que leia o valor gasto com as despezas realizadas em um restaurante e exiba o valor total com a gorjeta.
+
+e1p que leia o valor da hora e informe quantos minutos se passaram desde o início do dia.
+
+dado um polígono convexo de N lados, calcular o número de diagonais diferentes nesse polígono. e1p que leia quantos lados tem um polígono, calcule e exiba o número de diagonais diferentes do mesmo.
+ 

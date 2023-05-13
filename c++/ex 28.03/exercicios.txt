@@ -1,0 +1,10 @@
+e1p que entre com o salário bruto de uma pessoa, exibir o salário com desconto, seguindo a tabela a seguir
+<=1200 isento
+>1200 e <=1800 - 20%
+>1800 e <=3000 - 25%
+>3000 - 30%
+um comerciante comprou o produto e quer vendê-lo com o lucro de 45% se o valor da compra for <200 reais; caso contrário, o lucro será de 30%, e1p que entre com o valor do produto e exiba o valor da venda
+
+Em um campeonato nacional de arco e flecha, tem-se equipes de 3 jogadores para cada estado. Sabendo- se que os arqueiros de uma equipe não obtiveram os mesmos pontos, e1p que informa se uma equipe foi classificada, de acordo com a seguinte especificação: leia os pontos obtidos para cada jogador da equipe, mostrar estes valores em ordem decrescente e se a soma de pontos for  > 100, exibir entre eles a média aritmética; se não, exibir a mensagem "equipe desclassificada".
+
+e1p que leia 3 valores inteiros (variáveis A, B, C) e efetuar o cálculo da equação de segundo grau, apresentando: as duas raízes, se para os valores informados for possível fazer o cálculo (delta positivo ou 0); A mensagem "não há raízes reais", se não for possível fazer o cálculo (delta negativo); E a mensagem (não é uma equação do segundo grau, se o valor de A for igual a 0.
