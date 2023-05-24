@@ -1,0 +1,9 @@
+1- e1p que exiba a tabela de conversao de pol para cm. ATENCAO: 1pol = 2.54cm
+
+2- e1p que exiba atabela de conversao de C° para F°. O intervalo deve ser entrado pelo usuario. 
+
+3- e1p um programa que leia um numero e exiba a soma dos multiplos de 5 no intervalo aberto entre 1 e o numero digitado, suponha que o num > 0.
+
+4- e1p que leia a quantidade de termos que se deseja digitar e o programa exibe o menor e o maior numero possivel dentro da quantidade de termos.
+
+5- e1p um programa em que o usuario entre com o numero de termos e o programa exibe o numero correspondente na sequencia de Fibonacci
