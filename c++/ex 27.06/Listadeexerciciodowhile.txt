@@ -1,0 +1,11 @@
+1- E1p em que o usuário entra com vários números e exibe o quadrado de cada número até que apareça um número múltiplo de 6, aparecendo esse número, exiba o quadrado dele também e saia do programa.
+
+2- E1p que calcule o mmc entre 2 números lidos.
+
+3- E1p que calcule o mdc entre 2 números lidos.
+
+4- E1p que calcule quantos litros de gasolina são usados em uma viagem, sabendo-se que o carro faz 10Km por litro. O usuário fornecerá a velocidade do carro e o período de tempo que viaja nessa velocidade, para cada trecho do percurso. Então, usando as seguintes fórmulas: 
+	distância = tempo * velocidade;
+	litros consumidos = distância / 10;
+
+ O programa calculará, para todos os valores não negativos de velocidade, os litros de combustível consumidos. O programa deverá exibir a distância e o número de litros consumidos gastos naquele trecho. Deverá também, o total de litros gastos na viagem. o programa termina quando for digitado um valor negativo de velocidade.

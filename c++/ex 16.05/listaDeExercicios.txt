@@ -1,0 +1,18 @@
+e1p em que o usuario entre com o valor da tabuada e ele exibe o valor da tabuada.
+
+e1p que exiba todos os numeros de 1 a 100
+
+e1p que exiba todos os numeros de 100 ate 1
+
+e1p que exiba os 100 primeiros numeros pares
+
+e1p que exiba os multiplos de 5 no intervalo de 1 ate 500
+
+e1p que exiba o quadrado dos numeros de 1 ate 20
+
+e1p que exiba os numeros pares no intervalo de 1 a 600
+
+e1p que exiba todos os numeros de 120 a 300
+
+e1p que exiba todos os numeros de 1 ate 100 e a soma deles
+

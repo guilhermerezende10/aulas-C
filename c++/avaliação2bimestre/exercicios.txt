@@ -1,0 +1,9 @@
+1- Sabendo-se que um coprocessador aritmético calcula um produto através de somas sucetivas, e1p que calcula o produto de 2 num int lidos e exiba o resultado na tela. Suponha que os num int lidos sejam positivos, que o multiplicando seja menor que o multiplicador.
+
+2- A série de Ricci difere da série de Fibonacci porque os 2 primeiros termos são informados pelo usuário. Os demais termos são gerados da mesma forma que a série de Fibonacci. e1p que exiba os N primeiros termos da série de Ricci e a soma dos termos exibidos, sabendo-se pra existir é necessário no mínimo 3 termos.
+
+3- e1p que entre com 10 num (positivo ou negativo). Exibir o maior num e o menor num da lista.
+
+4- Uma escola tem 5 turmas cada turma tem N alunos. e1p que exiba por turma, total de alunos com a média superior a 7 e a média geral da escola. 
+
+5. No dia da estreia do filme Barbie, uma grande emissora de TV realizou uma pesquisa logo após o encerramento do filme. Cada espectador respondeu a 1 questionário no qual constava a sua idade e a sua opinião em relção filme: Opção 3: Execelente; Opção 2: Bom; Opção 1: Regular. e1p que receba a idade e opinião de 20 espectadores. Calcule e exiba: A média das idades das pessoas que responderam excelente; A quantidade de pessoas que responderam 'regular', a porcentagem de pessoas que responderam 'bom', entre todos os espectadores analisados.

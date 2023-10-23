@@ -1,0 +1,9 @@
+1) E1p em que o usuário entra com vários num e exibe o triplo de cada num. O programa acaba quando o usuário digitar "-999".
+
+2) E1p em que o usuário entra com vários num positivos, o programa exibe quantos num positivos foram digitados e ele só termina quando for digitado num negativo.
+
+3) E1p em que o usuário entra com vários num positivos, ele exibe a média dos num digitados, e o programa termina quando for digitado um num negativo.
+
+4) E1p que leia vários num e informar quantos num foram digitados entre 100 e 200. Quando for digitado o num "0", o programa deverá parar sua execução.
+
+5) E1p que leia vários num inteiros até que o usuário digite "-999". Para cada num digitado, exiba seus divisores.

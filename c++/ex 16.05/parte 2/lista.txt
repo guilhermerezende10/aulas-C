@@ -1,0 +1,9 @@
+e1p em que o usuario entre com 10 numeros e o programa exibe a metade de cada numero
+
+e1p em que o usuario entra com 10 numeros e o programa exibe o quadrado de cada numero
+
+e1p em que o usuario entra com 15 numeros e o programa exibe a raiz quadrada de cada numero, verificar se a entrada de 0 e numeros negativos
+
+e1p em que o usuario entra com 4 numeros e o programa exibe o cubo e a raiz cubica de cada numero 
+
+e1p que calcule e exiba o valor de b elevado a n; o valor de n deverá ser maior que 1 e inteiro; o valor de b devera ser >= e inteiro.

@@ -1,0 +1,11 @@
+TESTE 1- e1p que apresenta o código, a qtd, o valorCompra e valorDeVenda de 30 produtos. Exibir a lista de todos os produtos.
+
+2- E1p que leia dois conjunto de numeros inteiros, tendo cada um 10 e 20 elementos. Exiba apenas os elementos comuns aos conjuntos. Lembre-se de que elementos podem se repetir mas não podem aparecer repetidos na exibição.
+
+3- E1p que leia vários num inteiros e positivos. O programa se encerra quando encontrado um número negativo, ou quando o vetor ficar completo. Sabendo-se que o vetor possui, no máximo 10 elementos. Gerar e exibir um vetor onde cada elemento é o inverso do correspondente do vetor original.
+
+4- E1p que leia dados para um vetor de 100 elementos inteiros. Exibir o maior e o menor sem ordenar, o percentual de números pares e a média dos elementos do vetor.
+
+5- E1p que, é dado dois vetores de 10 posições cada, efetue operações aritiméticas básicas, indicadas do terceiro vetor cujo os dados também são conhecidos pelo usuário, gerando e exibindo no quarto vetor.
+
+6- E1p que gerencia um sistema de reserva de mesas em uma casa de espetáculo, a casa possui 30 mesas de 5 lugares cada. O programa deve permitir que o usuário escolha o código de uma mesa (100 a 129), e forneça a quantidade de lugares desejados. O programa deverá informar se for possível realizar a reserva e atualizar a reserva, se não for possível, o programa deverá emitir uma mensagem avisando que não foi possível. O programa termina quando o usuário digitar 0 para uma mesa ou quando todos os 150 lugares estiverem ocupados.

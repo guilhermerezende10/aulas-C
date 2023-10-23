@@ -1,0 +1,21 @@
+                                              Exercícios 20/06
+1- Samuel tem 1,90m e cresce 2cm por ano, enquanto Amanda tem 1,50m e cresce 3cm por ano. E1p que calcule e exiba quantos anos serão nescessários para que Amanda seja maior que Samuel.
+
+
+2- Uma empresa de fornecimento de energia elétrica faz a leitura mensal dos medidores de consumo. Para cada consumidor, são digitados os seguintes dados: NUM do consumidor, quantidade de KWh consumidos durante o mês, e tipo do consumidor.
+-Tipo 1: residencial, preço em reais por KWh = 0.3.
+-Tipo 2: comercial, preço em reais por KWh = 0.5.
+-Tipo 3: industrial, preço em reais por KWh = 0.7.
+Os dados devem ser lidos até que seja encontrado um consumidor com código "0". O programa deve exibir: o custo total de cada consumidor; o total de consumo para 3 tipos de consumidor; a média de consumo dos tipos 1 e 2.
+
+3- E1p que só deixe entrar com exatamente 10 num positivos e exiba a raiz quadrada de cada num. Para cada entrada de dados deverá haver uma proteção para que o num negativo não seja aceito.
+
+4- E1p que leia vários num e apresente o fatorial de cada num. O programa se encerra quando o num digitado for menor que 1.
+
+5- E1p que entra com a idade de várias pessoas. Exibir o total de pessoas com menos de 21 anos; e exibir o total de pessoas com mais de 50 anos. Obs: O programa não deve permitir idades <= 0 e >= 117.
+
+6- E1p que o usuário entra com vários num e ele verifica se os num são ou não um quadrado perfeito. O programa termina quando se digita um num <= 0.
+
+7- E1p que receba vários num inteiros, e exiba a quantidade de num primos que foram digitados, o programa acaba quando se digita um num <= 0.
+
+8- E1p que exiba se um num é triangular ou não.
